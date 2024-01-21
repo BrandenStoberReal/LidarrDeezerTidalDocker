@@ -1,3 +1,4 @@
+#/bin/bash
 SMA_PATH="/usr/local/sma"
 
 echo "*** install packages ***" && \
