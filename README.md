@@ -1,0 +1,2 @@
+# LidarrDeezerTidalDocker
+I hate everything
